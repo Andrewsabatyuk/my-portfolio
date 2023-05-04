@@ -12,8 +12,8 @@
   scroll-behavior: smooth;
   color-scheme: dark;
 }
-.root{
-  padding: 10px;
+#root{
+  padding-left: 10px;
 }
 
 .hash-span {
